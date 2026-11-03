@@ -30,6 +30,10 @@ body {
   background: #f6f0fa;
   padding: 1rem;
 }
+.sidebar ul{
+  list-style-type:none;
+  padding: 10px;
+}
 .gallery {
   grid-area: main;
 }
